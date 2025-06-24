@@ -15,7 +15,7 @@ This project is a backend server that receives webhook events from GitHub and fo
     npm install
     ```
 
-### Security and Authentication
+### Information
 
 The project uses ngrok to expose the server publickly using a public ngrok URL and webHook event is sent to the server through the exposed URL.
 
